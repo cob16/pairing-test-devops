@@ -19,13 +19,9 @@ You are required to provision and deploy a new service in AWS. It must:
 
 # Prerequisites
 
-AWS creds/VPC and S3 bucket names etc will be provided when the exercise begins.
+AWS creds will be provided when the exercise begins.
 
-# Mandatory Work
-
-Fork this repository.
-
-* Provide instructions on how to create the server.
+# Work
 
 * Bootstrap and provision the server however you wish. Use user-data or a configuration management tool (such as Puppet, Chef or Ansible). Alternatively launch an idempotent AMI with packer and terraform, or even via the console. Be prepared to justify your decision!
 
@@ -37,8 +33,6 @@ Fork this repository.
 
 Give github users `aeells|schmiegelow` access to your fork.
 Feel free to ask questions as you go if anything is unclear, confusing, or just plain missing.
-
-# Extra Credit
 
 This exercise is time-boxed, but if any of these shortcut the process by making it easier in the long-run they might be worth considering up front. We won't mark you down for not doing the extra credits, but if you want to give them a go...
 
